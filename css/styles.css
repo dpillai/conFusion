@@ -1,4 +1,4 @@
-row-header {
+.row-header {
   margin: 0px auto;
   padding: 0px 0px; }
 
@@ -52,3 +52,12 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal-header {
+  color: floralwhite;
+  background-color: #512DA8; }
+  .modal-header .close {
+    color: floralwhite; }
+
+.modal-body {
+  background-color: #D1C4E9; }
